@@ -1,7 +1,7 @@
 .header {
-    background-color:  cadetblue;
+    background-color:  rgb(253, 68, 68);
     min-height: 50px;
-    border-bottom: 10px solid slategray;
+    border-bottom: 5px solid slategray;
     display: flex;
     justify-content: flex-end;
     z-index: 10;

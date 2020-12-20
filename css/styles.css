@@ -1,7 +1,7 @@
 @import "./navbar.css";
 body {
     background: rgb(136,203,171);
-    background: linear-gradient(0deg, rgba(136,203,171,1) 0%, rgba(0,13,60,1) 100%);
+    background: linear-gradient(0deg, rgb(238, 95, 38) 0%,rgb(136,203,171) 100%);
     margin: 0;
     font-family: 'Merriweather', serif;
     color: #fff;

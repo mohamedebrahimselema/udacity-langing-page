@@ -18,8 +18,12 @@
     margin-right: 10px;
     margin-top: 10px;
     list-style: none;
+    
   }
-  
+  .nav-list-item-active{
+    background: rgb(0, 0, 0);
+    background: linear-gradient(0deg, rgba(163, 20, 20, 0.3) 0%, rgb(255, 255, 255) 100%);
+  }
   .content {
     padding: 10px;
   }
